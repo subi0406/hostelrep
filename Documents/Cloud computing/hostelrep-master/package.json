@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "firebase": "^10.12.3"
+  },
+  "name": "subikani",
+  "version": "1.0.0",
+  "main": "scriptn.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"No build script defined\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "hostelrep"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
